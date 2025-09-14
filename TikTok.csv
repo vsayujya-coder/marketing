@@ -1,0 +1,6 @@
+date,campaign,adset,impressions,clicks,spend,attributed_revenue
+2025-09-10,TT_CampX,Set1,8000,60,80.0,220.0
+2025-09-11,TT_CampX,Set1,9000,70,95.0,260.0
+2025-09-12,TT_CampY,Set2,7000,55,75.0,200.0
+2025-09-13,TT_CampY,Set2,6000,50,65.0,175.0
+2025-09-14,TT_CampZ,Set3,5000,40,50.0,150.0

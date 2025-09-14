@@ -1,0 +1,6 @@
+date,campaign,adset,impressions,clicks,spend,attributed_revenue
+2025-09-10,FB_Camp1,AdSetA,10000,120,150.0,500.0
+2025-09-11,FB_Camp1,AdSetA,12000,140,180.0,600.0
+2025-09-12,FB_Camp2,AdSetB,8000,90,100.0,300.0
+2025-09-13,FB_Camp2,AdSetB,9000,95,110.0,350.0
+2025-09-14,FB_Camp3,AdSetC,7000,80,90.0,250.0

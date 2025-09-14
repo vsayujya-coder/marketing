@@ -1,0 +1,6 @@
+date,campaign,adset,impressions,clicks,spend,attributed_revenue
+2025-09-10,GL_CampA,Group1,15000,180,200.0,800.0
+2025-09-11,GL_CampA,Group1,14000,170,190.0,750.0
+2025-09-12,GL_CampB,Group2,11000,120,130.0,400.0
+2025-09-13,GL_CampB,Group2,13000,135,160.0,450.0
+2025-09-14,GL_CampC,Group3,9000,95,95.0,280.0
